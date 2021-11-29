@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nixx
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Express.js
+- 💞️ I’m looking to collaborate on any interesting project
+- 📫 Say hello [hello@nixx.dev](mailto:hello@nixx.dev)
