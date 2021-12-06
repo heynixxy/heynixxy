@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Nixx
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Express.js
-- 💞️ I’m looking to collaborate on any interesting project
-- 📫 Say hello [hello@nixx.dev](mailto:hello@nixx.dev)
+[<img alt="GitHub Banner" title="nixx.dev" src="https://user-images.githubusercontent.com/45858998/144782551-7cff1450-da9a-4b38-bfdb-d7cf3bbd1aa8.jpg" />](https://nixx.dev)
